@@ -4,7 +4,7 @@ Analog is an open-source calendar application built with Next.js, TypeScript, an
 
 ## Tech Stack
 
-- **Frontend**: Next.js 15.5 (React 19), TypeScript, Tailwind CSS v4, shadcn/ui components
+- **Frontend**: Next.js 16 (React 19), TypeScript, Tailwind CSS v4, shadcn/ui components
 - **Backend**: tRPC for type-safe APIs, Drizzle ORM with PostgreSQL
 - **Authentication**: Better Auth with OAuth providers (Google, Microsoft, Zoom)
 - **State Management**: Jotai, TanStack Query, XState
